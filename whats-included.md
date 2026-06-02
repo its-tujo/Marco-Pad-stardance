@@ -6,4 +6,5 @@ Current plan:
 
 1 Oled screen
 
-As much as many leds as possible
+As much leds as possible( max 20)
+
